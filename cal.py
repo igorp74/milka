@@ -23,11 +23,7 @@ cal = calendar.monthcalendar(2018, month)
 
     print('1st monday in month: %3s: %2s' % (calendar.month_abbr[month], day))
     print('2nd monday in month: %3s: %2s' % (calendar.month_abbr[month], dday))
-    
-
-    print('1st monday in month: %3s: %2s' % (calendar.month_abbr[month], day))
-    print('2nd monday in month: %3s: %2s' % (calendar.month_abbr[month], dday))
-    
+     
 
     print('1st monday in month: %3s: %2s' % (calendar.month_abbr[month], day))
     print('2nd monday in month: %3s: %2s' % (calendar.month_abbr[month], dday))
